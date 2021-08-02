@@ -4,3 +4,4 @@ c = a+ b
 print("the sum of %d and %d is %d\n"%(a,b,c))
 print("{}+{}={}".format(a,b,c))
 print(f"{a}+{b}={c}")
+print(a,"+",b,"="c)
