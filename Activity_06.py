@@ -10,3 +10,5 @@ print("replace list1= ",b)
 c[0]=0
 c[-1]=0
 print("replace list2= ",c)
+r=l[::-1]
+print("reversed list= ",r)
