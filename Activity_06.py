@@ -1,5 +1,7 @@
 a = input('enter the elements')
 b = a.split()
+for i in range(0,len(y)):
+  b[i]=int(b[i])
 c=b[0:3]
 print("sliced list= ",c)
 b[0]=0
