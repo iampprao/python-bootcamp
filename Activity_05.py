@@ -1,5 +1,4 @@
 input_line = input('enter elements of a list ')
-print("\n")
 number_string_list = input_line.split(' ')
 print('list: ', number_string_list)
 
