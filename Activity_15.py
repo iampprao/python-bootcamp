@@ -1,0 +1,8 @@
+a=input("enter a list of strings ")
+b=a.split()
+c=sorted(b)
+print(c)
+b.sort()
+print(b)
+b.sort(reverse=True)
+print(b)
